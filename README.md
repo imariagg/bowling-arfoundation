@@ -42,7 +42,11 @@ This is an Augmented Reality (AR) Bowling game built using Unity and ARFoundatio
 - ARCore XR Plugin for Android builds
 
 ## Demo Video
-You can find a demo video showcasing the gameplay [here](https://yourvideolink.com).
+You can find a demo video showcasing the gameplay 
+
+https://github.com/user-attachments/assets/8e5665d1-7fcd-4102-8b56-8e1aa02dc215
+
+
 
 ## Future Improvements
 - Optimizing plane detection for larger spaces.
