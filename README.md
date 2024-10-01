@@ -30,7 +30,7 @@ This is an Augmented Reality (AR) Bowling game built using Unity and ARFoundatio
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/ar-bowling-game.git
+   git clone https://github.com/imariagg/bowling-arfoundation.git
    ```
 2. Open the project in Unity (version 2021.3.11f1 LTS or later recommended).
 3. Ensure that AR Foundation and ARCore XR plugins are installed in the project.
@@ -46,12 +46,10 @@ You can find a demo video showcasing the gameplay
 
 https://github.com/user-attachments/assets/8e5665d1-7fcd-4102-8b56-8e1aa02dc215
 
-
-
 ## Future Improvements
 - Optimizing plane detection for larger spaces.
 - Enhancing ball physics and pin collision responses.
 - Adding multiplayer or leaderboard functionality.
 
 ## Credits
-Developed by Iván Fernández using Unity and ARFoundation.
+Developed by María García Gómez using Unity and ARFoundation.
